@@ -3,7 +3,7 @@
 
 1. #### Build Docker Image :-
 ```bash
-   $ docker build -t restapi11 .
+   $ docker build -t restapi .
 ```
 2. #### Compose Up :-
 ```bash
@@ -29,7 +29,7 @@ services:
     - 27017:27017
 
   restapi:
-    image: 'restapi11'
+    image: 'restapi'
     container_name: 'restapi_container'
     ports:
     - 8080:8080
