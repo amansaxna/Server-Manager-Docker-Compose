@@ -38,7 +38,6 @@ volumes:
 ```yml
   #Pull base image
   FROM tomcat:8.5.30-jre8
-  #maven:3.6.1-jdk-8
 
   # Maintainer
   MAINTAINER "aman.saxena2898@gmail.com"
