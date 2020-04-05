@@ -1,7 +1,14 @@
 # Server-Manager-Docker-Compose
 ## Steps For Executing Docker Compose
 
-1. ####
+1. #### Build Docker Image :-
+```bash
+   $ docker build -t restapi11 .
+```
+2. #### Compose Up :-
+```bash
+   $ docker compose up
+```
 
 ## docker-compose.yml :
 
