@@ -1,4 +1,4 @@
-# Server-Manager-Docker-Image
+# Server-Manager-Docker-Compose
 ## Steps For Executing Docker Compose
 
 1. ####
